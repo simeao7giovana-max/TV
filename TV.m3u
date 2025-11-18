@@ -1,8 +1,32 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais @ 4K (FHDR)",AgroMais 4K
 http://eapn2.lat:80/AkKM2G/6mvD6F/41543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 01" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",Marvel 01
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 02" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",Marvel 02
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 03" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",Marvel 03
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 04" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",Marvel 04
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330658.m3u8
 #EXTINF:-1 tvg-logo="http://izystc.net:80/images/d6fcd247ac34f4000534371fe6378a25.png" group-title="Canais @ 4K (FHDR)",AMC 4K
 http://eapn2.lat:80/AkKM2G/6mvD6F/41542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batman - Trilogia" tvg-logo="https://i.imgur.com/sZllTYP.png" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",Batman - Trilogia
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 01" tvg-logo="https://i.imgur.com/GcYxvpW.png" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",Harry Potter 01
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 02" tvg-logo="https://i.imgur.com/GcYxvpW.png" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",Harry Potter 02
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 01" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",Jogos Mortais 01
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 02" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",Jogos Mortais 02
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner - Trilogia" tvg-logo="https://i.imgur.com/kpgLT2u.png" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",Maze Runner - Trilogia
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit - Trilogia" tvg-logo="https://i.imgur.com/bQuLAch.png" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",O Hobbit - Trilogia
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Aneis - Trilogia" tvg-logo="https://i.imgur.com/uwOcud9.png" group-title="♦️ CANAIS 24H  | PREMIUM ⭐",O Senhor dos Aneis - Trilogia
+http://cdn.arrascacrf.site:80/1122334455/5544332211/3330661.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais @ Filmes e Séries",AMC FHD
 http://eapn2.lat:80/AkKM2G/6mvD6F/31468.m3u8
 #EXTINF:-1 tvg-logo="http://izystc.net:80/images/d6fcd247ac34f4000534371fe6378a25.png" group-title="Canais @ Filmes e Séries",AMC FHD (H265)
